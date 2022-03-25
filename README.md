@@ -1,4 +1,7 @@
 # Team Dikdik
+![image](https://user-images.githubusercontent.com/92303930/160085087-208e595d-8d71-4c88-97f5-8ec0d5184cb5.png)
+
+
 
 ## Inhoudsopgave
 - [Team Dikdik](#team-dikdik)
