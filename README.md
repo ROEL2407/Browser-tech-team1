@@ -120,9 +120,32 @@ De taal veranderen kan ook niet meer.
 Het is ook nog mogelijk om de betaalvaluta te veranderen. 
 Informatie die volgt na het klikken op help doet het nog wel. 
 
-Helaas als je een bestelling wilt volgen heb je weer pech, want alleen de path veranderd. Er komt geen informatie in beeld, zoals met JavaScript wel gebeurd.
+Helaas als je een bestelling wilt volgen heb je weer pech, want alleen de path in de url verandert. Er komt geen informatie in beeld, zoals met JavaScript wel gebeurd.
 <img width="1224" alt="orderTrack" src="https://user-images.githubusercontent.com/92303930/159916903-dc86aa94-3bad-443a-a9f1-3bfae22b4216.png">
 <img width="1222" alt="orderWelGetracked" src="https://user-images.githubusercontent.com/92303930/159916933-90dbf3cc-84d7-480c-9f32-42748f59ca95.png">
+
+Op basis van deze ervaring je je kunnen afvragen waarom iemand überhaupt JavaScript uit zou zetten. Aangezien het doel van bijvorbeeld deze webshop niet meer te bereiken is. Daarom zet ik even de voor- en nadelen van JavaScript uitschakelen op een rijtje. 
+
+Voordelen van uitschakelen. 
+
+* Beveiliging: het grootste probleem met JavaScript zijn verdachte webpagina's. Bovendien kunnen clientbrowsers schadelijke code invoegen die rechtstreeks van invloed is op jouw computer.
+
+* Browserondersteuning: niet elke browser is in staat om JavaScript effectief uit te voeren, omdat elke browser de code anders interpreteert. Dit kan leiden tot inconsistenties als het gaat om functionaliteit en de interface.
+
+* Door de programmeertaal uit te schakelen, zorg je ervoor dat jouw browser pagina's nauwkeurig kan lezen en laden, zeker als je graag oudere websites bezoekt.
+
+* Uitgeschakelde plug-ins en cookies: een belangrijk punt van zorg voor veel computergebruikers is dat bedrijven internetgebruik kunnen volgen en die gegevens vervolgens aan andere bedrijven kunnen verkopen. Wanneer JavaScript is uitgeschakeld, werken veel van de cookies die verantwoordelijk zijn voor het bewaken van jouw persoonlijke gebruikersinformatie niet meer. Dit vermindert hoeveel bedrijven jouw kunnen volgen en verbetert zeker de gemoedsrust voor de gemiddelde gebruiker.
+
+Bron: https://anonymania.com/disabling-javascript-browser-cons-pros/#disabling-pros
+
+Nadelen van uitschakelen
+
+* Verwarrende presentatie: een nadeel van het uitschakelen van JavaScript is dat alle snelkoppelingen, opsommingstekens en andere organiserende informatie verdwijnen. Dit kan webpagina's verwarrend of moeilijk leesbaar maken.
+
+* Minder toegang tot media: een ander probleem is dat u de toegang tot de afbeeldingen, video's, kaarten en afbeeldingen op webpagina's kunt verliezen, wat mogelijk de toegang tot en de zichtbaarheid van media beperkt.
+
+* Minder wendbaarheid: JavaScript vernieuwt websites en zoekopdrachten altijd om het gemakkelijker te maken om door de informatie te bladeren. Als het eenmaal is uitgeschakeld, moet je door tonnen "Volgende" -links bladeren om afbeeldingen of inhoud te zien.
+
 
 ### 7. Cookies (door Lisanne)
 Op de voorpagina komt er een pop-up in beeld, die met cookies in één klik te verbergen is. Zonder cookies blijft de pop-up een keer of vijf terugkomen, voordat het verdwijnt. Als de pagina herladen wordt, verschijnt de pop-up weer, evenals de "Visiting from outside Europe?" pop-up.
